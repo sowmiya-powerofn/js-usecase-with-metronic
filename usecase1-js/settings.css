@@ -1,0 +1,45 @@
+
+#header {
+    background-color: #f8f9fa;
+    height: 70px;
+}
+
+.profile-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+h1 {
+    flex-grow: 1;
+    font-weight: bold;
+    color: #343a40;
+}
+.user-circle {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+
+.container {
+    padding-top: 120px;
+}
+
+form {
+    margin-top: 30px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #eaeaea;
+}
